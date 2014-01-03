@@ -1,2 +1,4 @@
 codingkurs
 ==========
+
+Infos folgen!
