@@ -1,6 +1,7 @@
 #codingkurs
 ##Struktur
 Der Kurs wird grob in 4 Kapitel eingeteilt, undzwar in der Folgenden Reihenfolge:
+
 1. HTML
 2. CSS
 3. Javascript
